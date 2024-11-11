@@ -1,1 +1,2 @@
-# wind-field-sim
+# Aerosense simulations
+
